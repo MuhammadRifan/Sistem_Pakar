@@ -4,7 +4,7 @@
         <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
         <link href="/assets/css/bootstrap-theme.min.css" rel="stylesheet">
         <link href="/assets/css/cover.css" rel="stylesheet">
-        <title></title>
+        <title>Sistem Pakar</title>
     </head>
     <body>
         <div class="site-wrapper">
